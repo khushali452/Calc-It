@@ -1,6 +1,12 @@
 *, *::before, *::after {
   box-sizing: border-box;
 }
+.heading{
+  font-size: 2rem;
+  
+  text-align: center;
+  justify-content: center;
+}
 
 body {
   margin: 0;
